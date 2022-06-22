@@ -1,0 +1,379 @@
+body{
+    background: #F5F5F5;
+    font-family: 'Raleway', sans-serif;
+}
+
+.meu-nome{
+    position: absolute;
+    width: 102px;
+    top: 5%;
+    height: 19px;
+    margin-bottom: 5px;
+    margin-left: 70px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #464646;
+}
+
+ul{
+    position:absolute;
+    display: inline;
+    top:5%;
+    margin-top: 0px;
+    right: 30px;
+    font-family: 'Raleway', sans-serif;
+    text-decoration: none;
+
+}
+ul li{
+    display: inline-block;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 5px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+ul li:hover{
+    color: #050a27;
+
+}
+
+.apresentacao {
+    position: static;
+    width: 751px;
+    height: 122px;
+    margin-left: 50px;
+    margin-top: 100px;
+    padding: 20px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 61px;
+    color: #464646;
+    
+}
+.estado-atual{
+    position: static;
+    margin-top: 15px;
+    width: 751px;
+    height: 52px;
+    margin-left: 50px;
+    padding: 20px;
+    
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+    
+    color: #464646;
+    
+}
+
+.imagem {
+    
+position: absolute;
+width: 300px;
+height: 300px;
+left: 730px;
+top: 50px;
+padding: 0%;
+background: ("foto-perfil.jpg");
+border-radius: 100%;
+margin-left: 60px;
+margin-top: 70px;
+}
+
+.sobre-mim{
+    margin-top: 50px;
+    background: #EAF2FD;
+    padding: 50px;
+}
+
+.sobre-mim-titulo{
+    position: static;
+    width: 166px;
+    height: 38px;
+    left: 0px;
+    top: 0px;
+    margin-left: 20px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+    color: #464646;
+}
+.sobre-mim-paragrafo{
+    margin-left: 20px;
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #464646;
+}
+
+.skills{
+    width: 82px;
+    height: 38px;
+    padding: 20px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+    color: #464646;
+    display: inline-block;
+}
+.paragraph-skills{
+    position: absolute;
+    margin-left: 43%;
+}
+
+.skill-html {
+    position: absolute;
+    display: inline-block;
+    height: 174px;
+    width: 176px;
+    padding-left: 20px;
+    margin-left: 20%;
+    margin-top: 100px;
+}
+.skill-js{
+    position: absolute;
+    display: inline-block;
+    padding-left: 20px;
+    margin-left: 60%;
+    margin-top: 100px;
+}
+.skill-css{
+    position: absolute;
+    display: inline-block;
+    padding-left: 20px;
+    margin-left: 40%;
+    margin-top: 100px;
+} 
+
+#menu-hobbies .hobbies-paragraph{
+    margin-top: 300px;
+    margin-left: 43%;
+    padding: 20px;
+    
+    font-family: 'Raleway';
+    font-style: bold;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+    color: #464646;
+        
+}
+.ouvir{
+    height: 174px;
+    width: 176px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    padding: 0px;
+    margin-top: 0;
+    margin-left: 300px;   
+}
+.series,.cozinhar,.fotos{
+    padding-left: 20px;
+
+}
+.formacoes{
+    background: #EAF2FD;
+    margin-top: 100px;
+
+}
+.formacao-paragraph{
+    margin-left: 43%;
+    top: 0px;
+    padding: 20px;
+    
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+
+    color: #464646;
+        
+
+}
+.alura{
+    height: 174px;
+    width: 176px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    padding: 0px;
+    margin-top: 0;
+    margin-left: 450px; 
+    padding: 10px;
+
+}
+.estacio{
+    
+    height: 174px;
+    width: 176px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+.experiencia{
+    margin-top: 100px;
+}
+.paragraph-expe{
+    height: 38px;
+    margin-left:38%;
+    top: 0px;
+    padding: 20px;
+    
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+        
+    color: #464646;
+
+}
+
+.criptografia{
+    display:inline-block;
+    width: 50%;
+    margin-top: 30px;
+    margin-left: 100px;
+    margin-bottom:30px ;
+}
+.decodificador{
+    display: inline-block;
+    position: absolute;
+    width: 30%;
+    left: 70%;
+    margin-top:5%;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 26px;
+    
+}
+.descricao-decodificador{
+    display: inline-block;
+    position: absolute;
+    font-family: 'Raleway';
+    font-weight: bold;
+    width: 30%;
+    left: 70%;
+    margin-top:10%;
+    
+}
+#menu-experiencia .ver-demo {
+    position: absolute;
+    display: inline-block;
+    margin-top: 250px;
+    margin-left: 280px; 
+    border: none;
+}
+#menu-experiencia a{
+    font-size: 20px;
+    text-decoration:none;
+    color: #464646;
+    background-color: #b6b0b0;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.imagem-tel{
+    display: inline;
+    margin-left: 14.5%;
+    margin-top: 50px;
+}
+.contato-form{
+    margin-top: 100px;
+    background-color: #EAF2FD;
+}
+.contato{
+    position:absolute;
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 49.3%;
+    margin-bottom: 10px;
+    padding: 0px;
+    
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+
+    color: #464646;
+        
+}
+
+.form-contato{
+    position: absolute;
+    display: inline-block;
+    margin-top: 150px;
+    font-family: 'Raleway', sans-serif;
+}
+
+#nome{
+    position: absolute;
+    display:inline-block;
+    width: 300px;
+    margin: 2px;
+    padding: 10px;
+    margin-top: 200px;
+}
+#email{
+    position: absolute;
+    display:inline-block;
+    width: 300px;
+    margin: 2px;
+    padding: 10px;
+    margin-top: 250px;
+}
+#assunto{
+    position: absolute;
+    display:inline-block;
+    width: 300px;
+    margin: 2px;
+    padding: 10px;
+    margin-top:300px;
+}
+
+textarea {
+    position: absolute;
+    display:inline-block;
+    width: 300px;
+    margin: 2px;
+    padding: 10px;
+    margin-top: 350px;
+    height: 185px;
+}
+.envia{
+    position: absolute;
+    margin: 13px;
+    padding: 10px;
+    width: 300px;
+    margin-top:600px;
+}
+footer{
+    font-family: 'Raleway', sans-serif;
+    position: relative;
+    top: 40px;
+    text-align: center;
+
+}
+
